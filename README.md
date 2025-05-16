@@ -7,5 +7,5 @@ Zawarte tu materiały obejmują rozwiązania zadań oraz sprawozdania z laborato
 
 ## Description
 
-This repository contains scripts developed as part of the **MOWNiT** (Computational Methods in Science and Technology) course, conducted within the **Computer Science** program at the **AGH University of Science and Technology** in Kraków, Poland.  
+This repository contains scripts developed as part of the **MOWNiT** (Computational Methods in Science and Technology) course, conducted within the **Computer Science** program at the **AGH University of Cracow**.  
 The materials include solutions to assignments and lab reports aimed at exploring computational methods, their limitations, and practical challenges during implementation.
